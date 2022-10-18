@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirankumarkv
 - 👀 I’m interested in computer vision, machine Learning and Neural Networks
-- 🌱 I’m currently learning Deep Learning Neural Networks
+- 🌱 I’m currently working on Deep Learning Neural Networks and Machine learning
 - 💞️ I’m looking to collaborate on research and development  
 - 📫 How to reach me ...
 

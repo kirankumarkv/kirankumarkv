@@ -23,7 +23,7 @@
 ---
 | ![Kiran Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirankumarkv&show_icons=true&theme=radical) | [![Kiran Kumar's Stri](https://streak-stats.demolab.com?user=kirankumarkv&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumarkv&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumarkv&layout=compact&&show_icons=true&theme=radical)](https://github.com/kirankumarkv/github-readme-stats) |                                                              |
 
 
 

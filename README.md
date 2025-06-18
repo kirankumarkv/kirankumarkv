@@ -56,8 +56,8 @@ Passionate AI researcher specializing in AI, Computer Vision, and Agentic AI. Cu
 
 ## 🏆 Featured Projects
 
-1. **[Satellite Image Segmentation](https://github.com/kirankumarkv/satellite-segmentation)**  
-   Advanced deep learning model for high-resolution satellite image analysis using U-Net architecture.
+1. **[Credit Card Fraud Detection](https://github.com/kirankumarkv/credit-card-Fraud-Detection-)**  
+   Optimization of credit card fraud detection using swarm intelligence in machine learning. 
 
 2. **[Audio Deep Learning Toolkit](https://github.com/kirankumarkv/audio-dl)**  
    Comprehensive library for audio processing and classification with neural networks.

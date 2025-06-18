@@ -12,9 +12,9 @@
 
 Passionate AI researcher specializing in Computer Vision, Deep Learning, and NLP. Currently exploring the frontiers of Fuzzy Logic and its applications in AI systems. I bridge the gap between theoretical research and practical implementations to solve real-world problems.
 
-- 🔭 **Current Role**: Cognitive Load Engineer (AI Research)
-- 🌱 **Learning**: Advanced Fuzzy Logic systems and their AI applications
-- 🎯 **2025 Goals**: Publish research in Computer Vision and Satellite Image Segmentation
+- 🔭 **Current Role**: AI Engineer, Tutor and Mentor (AI Research)
+- 🌱 **Learning**: AI applications in Congitive load 
+- 🎯 **2025 Goals**: Publish research in Computer vision and Cognitive Load analysis. 
 - ⚡ **Fun Fact**: I train neural networks by day and debate philosophy with AI chatbots by night
 
 ---

@@ -69,7 +69,7 @@ Passionate AI researcher specializing in Computer Vision, Deep Learning, and NLP
 
 ## 🖥 Development Environment
 
-**System**: Realme Laptop  
+**System**: ASUS Laptop  
 **Processor**: Intel Core i7-10870H @ 2.20GHz  
 **GPU**: NVIDIA GeForce RTX 3060 (Laptop)  
 **RAM**: 16GB  
@@ -82,9 +82,9 @@ Passionate AI researcher specializing in Computer Vision, Deep Learning, and NLP
 ## 🎯 Current Focus Areas
 
 - Computer Vision research
-- Explainable AI (XAI) implementations
+- Agentic AI
 - Multimodal learning systems
-- Edge AI deployment
+- Biomedical Signal Processing
 
 ---
 

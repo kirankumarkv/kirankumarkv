@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-Passionate AI researcher specializing in Computer Vision, Deep Learning, and NLP. Currently exploring the frontiers of Fuzzy Logic and its applications in AI systems. I bridge the gap between theoretical research and practical implementations to solve real-world problems.
+Passionate AI researcher specializing in AI, Computer Vision, and Agentic AI. Currently exploring the frontiers of interfacing human brain with AI systems. I bridge the gap between theoretical research and practical implementations to solve real-world problems.
 
-- 🔭 **Current Role**: AI Engineer, Tutor and Mentor (AI Research)
-- 🌱 **Learning**: AI applications in Congitive load 
-- 🎯 **2025 Goals**: Publish research in Computer vision and Cognitive Load analysis. 
-- ⚡ **Fun Fact**: I train neural networks by day and debate philosophy with AI chatbots by night
+**Current Role**: AI Engineer, Tutor and Mentor (AI Research)
+**Learning**: AI applications in Congitive load 
+**2025 Goals**: Publish research in Computer vision and Cognitive Load analysis. 
+**Fun Fact**: I train neural networks by day and debate philosophy with AI chatbots by night
 
 ---
 

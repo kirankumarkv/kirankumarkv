@@ -59,8 +59,8 @@ Passionate AI researcher specializing in AI, Computer Vision, and Agentic AI. Cu
 1. **[Credit Card Fraud Detection](https://github.com/kirankumarkv/credit-card-Fraud-Detection-)**  
    Optimization of credit card fraud detection using swarm intelligence in machine learning. 
 
-2. **[Audio Deep Learning Toolkit](https://github.com/kirankumarkv/audio-dl)**  
-   Comprehensive library for audio processing and classification with neural networks.
+2. **[Optical Character Recognition](https://github.com/kirankumarkv/OCR-UI/tree/main)**  
+  Created an OCR for Medical Prescriptions automatic reading. 
 
 3. **[Time Series Forecasting](https://github.com/kirankumarkv/time-series-forecasting)**  
    Hybrid model combining statistical methods with LSTM networks for accurate predictions.

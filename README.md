@@ -10,7 +10,7 @@
 
 ##  About Me
 
-Passionate AI researcher specializing in AI, Computer Vision, and Agentic AI. Currently exploring the frontiers of interfacing human brain with AI systems. I bridge the gap between theoretical research and practical implementations to solve real-world problems.
+Passionate AI researcher specializing in AI, Computer Vision, and Agentic AI. Currently exploring the frontiers of interfacing human thinking with AI systems. I bridge the gap between theoretical research and practical implementations to solve real-world problems.
 
 **Current Role**: AI Engineer, Tutor and Mentor (AI Research)
 **Learning**: AI applications in Congitive load 
@@ -21,24 +21,24 @@ Passionate AI researcher specializing in AI, Computer Vision, and Agentic AI. Cu
 
 ## 🛠 Technical Skills
 
-### Programming & Data Science
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+Programming & Data Science
+https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?style=flat-square&logo=scikit-learn&logoColor=white
+https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-Advanced-013243?style=flat-square&logo=numpy&logoColor=white
+https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat-square&logo=opencv&logoColor=white
 
-### Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=flat-square&logo=flask&logoColor=white)
 
-### Tools & Platforms
-![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-Intermediate-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
+Cloud & Deployment
+https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white
+https://img.shields.io/badge/Kubernetes-Basic-326CE5?style=flat-square&logo=kubernetes&logoColor=white
+https://img.shields.io/badge/Flask-Intermediate-000000?style=flat-square&logo=flask&logoColor=white
+https://img.shields.io/badge/FastAPI-Intermediate-009688?style=flat-square&logo=fastapi&logoColor=white
 
----
+
 
 ## 📈 GitHub Stats
 
